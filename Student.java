@@ -7,5 +7,7 @@ public class Student {
         System.out.println("line4");
         System.out.println("this code for remove");
 
+        System.out.println("khublal");
+
     }
 }
