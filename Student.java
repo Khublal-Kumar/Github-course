@@ -13,6 +13,7 @@ public class Student {
 
 
         System.out.println("branch-b work");
+        System.out.println("A");
 
     }
 }
