@@ -8,6 +8,7 @@ public class Student {
         System.out.println("this code for remove");
 
         System.out.println("khublal");
+        System.out.println("kumar");
 
     }
 }
